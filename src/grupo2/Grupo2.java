@@ -16,7 +16,6 @@ public class Grupo2 {
     public static void main(String[] args) {
         System.out.println("Christian"); //Christian Paul Reinoso Salazar ........ 
         // TODO code application logic here
-       
-        
+        System.out.println("Alexis");
     }
 }
