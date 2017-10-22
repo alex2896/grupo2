@@ -10,4 +10,8 @@ package grupo2;
  */
 public class OtraClase {
     //Salir
+    public static void main(String[] args) {
+    System.out.println("haber");    
+    }
+    
 }
