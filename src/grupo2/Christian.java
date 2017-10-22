@@ -10,4 +10,7 @@ package grupo2;
  */
 public class Christian {
     //Si se marcho sin un Adios que se vaya a la !"#$%&/&/%$#
+    public static void main(String[] args) {
+        System.out.println("asdafd");
+    }
 }
